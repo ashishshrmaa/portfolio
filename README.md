@@ -76,3 +76,8 @@ Deploy to [Vercel](https://vercel.com) (recommended for Next.js):
 2. Import project in Vercel
 3. Add environment variables: `EMAIL_USER` and `EMAIL_PASS`
 4. Deploy!
+<<<<<<< HEAD
+=======
+"# portfolio" 
+"# portfolio" 
+>>>>>>> 4eb3e4cd259ca101032f79d11e8e01c9099fa1c1
